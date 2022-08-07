@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hello there !
+
+My name is Thibault and I am a student in 42 Paris. I used to work in finance and one day I decided to become a developper, so I joined the coding school 42.
+
+---
+## 42 school project
+
+| Project  | Grade          | Description|
+| -------- | -------------- |------------|
+| libft    | 125%           | This project is about coding a C library. It contains a lot of general purpose functions.
+| ft_printf| 100%           | This project is about recoding printf and learning about variable number of arguments.
+| get_next_line | 125% | This project is about programming a function that returns a line read from a file descriptor.
+| pushswap | 92% | This project is about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions.
+| FdF | 125% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.
+| minitalk | 125% |The purpose of this project is to code a small data exchange program using UNIX signals.
+
 
 <!--
 **Noulens/Noulens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
