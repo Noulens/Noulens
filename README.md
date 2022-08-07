@@ -1,6 +1,6 @@
 ## Hello there !
 
-My name is Thibault and I am a student in 42 Paris. I used to work in finance and one day I decided to become a developper, so I joined the coding school 42.
+My name is Thibault and I used to work in finance, one day I decided to become a developper so I joined the coding school 42. I am now a student in 42 Paris!
 
 ---
 ## 42 school project
