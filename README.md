@@ -3,6 +3,8 @@
 My name is Thibault and I used to work in finance, one day I decided to become a developper so I joined the coding school 42. I am now a student in 42 Paris!
 
 ---
+- 🔭 I’m currently working on my own Linux Shell in C!
+---
 ## 42 school project
 
 | Project  | Grade          | Description|
