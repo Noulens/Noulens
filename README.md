@@ -15,7 +15,11 @@ My name is Thibault and I used to work in finance, one day I decided to become a
 | push_swap | 92% | This project is about sorting data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 | FdF | 125% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.
 | minitalk | 125% |The purpose of this project is to code a small data exchange program using UNIX signals.
-
+| minishell | on-going|The purpose of this project is to create a small Linux Shell.|
+---
+## My 42 piscine
+I did the entrance examination called the piscine in February 2022: 
+- [My 42 piscine](https://github.com/Noulens/My_42_piscine)
 
 <!--
 **Noulens/Noulens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
