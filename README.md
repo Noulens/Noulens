@@ -8,7 +8,7 @@ My name is Thibault and I used to work in finance, one day I decided to become a
 ## 42 school project
 
 | Project  |Language| Grade          | Description|
-| -------- |C| -------------- |------------|
+| -------- |--------| -------------- |------------|
 | libft    |C| 125%           | This project is about coding a C library. It contains a lot of general purpose functions.
 | ft_printf|C| 100%           | This project is about recoding printf and learning about variable number of arguments.
 | get_next_line |C| 125% | This project is about programming a function that returns a line read from a file descriptor.
