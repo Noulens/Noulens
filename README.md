@@ -1,6 +1,6 @@
 ## Hello there !
 
-My name is Thibault and I used to work in finance, one day I decided to become a developper so I joined the coding school 42. I am now a student in 42 Paris!
+My name is Thibault. I left my job in finance to become a developper and I am proud to be now a 42 Paris student. 
 
 ---
 - 🔭 I’m currently working on my own Linux Shell in C!
