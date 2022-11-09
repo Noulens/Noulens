@@ -16,7 +16,7 @@ My name is Thibault. I left my job in finance to become a developper and I am no
 | [FdF](https://github.com/Noulens/FdF "FdF") |C| 125% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines.
 | [minitalk](https://github.com/Noulens/minitalk "minitalk") |C| 125% |The purpose of this project is to code a small data exchange program using UNIX signals.
 |[minishell](https://github.com/Noulens/minishell "minishell") |C|101%|The purpose of this project is to create a basic bash like shell.
-|[philosophers](https://github.com/Noulens/philosophers "philosophers")|C|100%|This project is about te philosophers dilemma and the basics of threading a process. It is an introduction on mutexes and how to create threads.
+|[philosophers](https://github.com/Noulens/philosophers "philosophers")|C|100%|This project is about the philosophers dilemma and the basics of threading a process. It is an introduction on mutexes and how to create threads.
 
 
 <!--
