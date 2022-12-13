@@ -17,6 +17,7 @@ My name is Thibault. I left my job in finance to become a developper and I am no
 | [minitalk](https://github.com/Noulens/minitalk "minitalk") |C| 125% |The purpose of this project is to code a small data exchange program using UNIX signals.
 |[minishell](https://github.com/Noulens/minishell "minishell") |C|101%|The purpose of this project is to create a basic bash like shell.
 |[philosophers](https://github.com/Noulens/philosophers "philosophers")|C|100%|This project is about the philosophers dilemma and the basics of threading a process. It is an introduction on mutexes and how to create threads.
+|[CPP]( https://github.com/Noulens/CPP_Modules "CPP")|C++|100%|This project is a bootcamp on c++.
 
 
 <!--
