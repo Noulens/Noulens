@@ -3,7 +3,7 @@
 My name is Thibault. I left my job in finance to become a developper and I am now proud to be a 42 Paris student. 
 
 ---
-- 🔭 I’m currently working on a basic ray tracing engine in C
+- 🔭 I’m currently studying Docker!
 ---
 ## 42 school project
 
