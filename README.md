@@ -3,12 +3,13 @@
 My name is Thibault. I left my job in finance to become a developper and I am now proud to be a 42 Paris student. 
 
 ---
-- ⚡ I’m currently on Transcendence project !
+- ⚡ I’m currently recoding some tools of the openssl command !
 ---
 ## 42 school project
 
 | Project  |Language| Grade          | Description|
 | -------- |--------| -------------- |------------|
+|[libasm](https://github.com/Noulens/libasm)|x64 assembly|125%|This project is about assembly x64 and recoding some libc functions.
 |[ft_transcendence](https://github.com/Noulens/ft_transcendence)|Typescript Docker|100%|This project is about creating a website for the mighty Pong contest!
 |[ft_irc](https://github.com/Noulens/ft_irc "ft_irc")|C++98|125%|This project is about creating a IRC server. Communication between client and server are done via TCP/IP.
 |[miniRT](https://github.com/Noulens/miniRT "miniRT")|C|120%|This project is about creating a basic ray tracing engine in C.
