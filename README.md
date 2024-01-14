@@ -9,7 +9,7 @@ My name is Thibault. I left my job in finance to become a developper and I am no
 
 | Project  |Language| Grade          | Description|
 | -------- |--------| -------------- |------------|
-|[ft_transcendence](https://github.com/Noulens/transcendence)|Typescript Docker|100%|This project is about creating a website for the mighty Pong contest!
+|[ft_transcendence](https://github.com/Noulens/ft_transcendence)|Typescript Docker|100%|This project is about creating a website for the mighty Pong contest!
 |[ft_irc](https://github.com/Noulens/ft_irc "ft_irc")|C++98|125%|This project is about creating a IRC server. Communication between client and server are done via TCP/IP.
 |[miniRT](https://github.com/Noulens/miniRT "miniRT")|C|120%|This project is about creating a basic ray tracing engine in C.
 |[philosophers](https://github.com/Noulens/philosophers "philosophers")|C|100%|This project is about the philosophers dilemma and the basics of threading a process. It is an introduction on mutexes and how to create threads.
