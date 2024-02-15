@@ -9,6 +9,7 @@ My name is Thibault. I left my job in finance to become a developper and I am no
 
 | Project  |Language| Grade          | Description|
 | -------- |--------| -------------- |------------|
+|[snow_crash](https://github.com/Noulens/snow_crash)|various|125%|This project is about learning weaknesses in software and exploit them to gain privileges.
 |[libasm](https://github.com/Noulens/libasm)|x64 assembly|125%|This project is about assembly x64 and recoding some libc functions.
 |[ft_transcendence](https://github.com/Noulens/ft_transcendence)|Typescript Docker|100%|This project is about creating a website for the mighty Pong contest!
 |[ft_irc](https://github.com/Noulens/ft_irc "ft_irc")|C++98|125%|This project is about creating a IRC server. Communication between client and server are done via TCP/IP.
